@@ -22,8 +22,10 @@ body {
   }
 
   #name {
+    padding-top: 3px;
     padding-left: 15px;
     margin-bottom: -1px;
+    margin-top: -1px;
     font-size: 25px;
     font-family: 'Raleway', sans-serif;
   }
